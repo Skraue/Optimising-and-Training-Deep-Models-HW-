@@ -1,3 +1,2 @@
 # Optimising-and-Training-Deep-Models-HW-
-This was an individual homework task to optimise and train deep models working with Tensorflow and keras in python.
-This focused on optimal hyperparamter selection and model evaluation.
+This was an individual hw project to learn how to optimise and train deep models, using the Tensorflow and keras libraries, which focused on optimal hyperparameter selection and model evaluation .In this self contained hw, the full description of the task and relevant theoretical knowledge is demonstrated, to convey a comprehensive understanding of the project. The tasks are differentiated from the theory by the [TO COMPLETE] notation, and justifications of model choice and evaluation are written where appropriate.
